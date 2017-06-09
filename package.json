@@ -1,0 +1,19 @@
+{
+  "name": "flow-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devhulk/flow-generator.git"
+  },
+  "author": "devhulk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devhulk/flow-generator/issues"
+  },
+  "homepage": "https://github.com/devhulk/flow-generator#readme"
+}
